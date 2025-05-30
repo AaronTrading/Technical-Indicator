@@ -1,6 +1,6 @@
 # Indicateur Technique Multi-paramètres
 
-Un indicateur technique avancé pour TradingView qui combine plusieurs indicateurs populaires pour fournir des signaux de trading complets avec gestion du risque.
+Un indicateur technique avancé pour TradingView qui combine plusieurs indicateurs pour fournir des signaux de trading complets avec gestion du risque ainsi qu'un setup d'entrée avec un TP/SL calculé et un RR de 1.5
 
 ## Screens
 
