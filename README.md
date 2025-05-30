@@ -4,7 +4,7 @@ Un indicateur technique avancé pour TradingView qui combine plusieurs indicateu
 
 ## Screens
 
-![Screen1](https://media.discordapp.net/attachments/1280431720679870475/1378145259363766352/image.png?ex=683b894a&is=683a37ca&hm=75737b65eb778a4bc0d1656ff68dcaec32877c4bb4c847164011b1c00c3ecebf&=&format=webp&quality=lossless&width=668&height=575)
+![Screen1](https://media.discordapp.net/attachments/1280431720679870475/1378146964344012941/image.png?ex=683b8ae1&is=683a3961&hm=82941ed19a5d168e7d7589b6bab2f1258f13103d3bea08a67d922013812f4eb0&=&format=webp&quality=lossless&width=659&height=503)
 
 ## Fonctionnalités
 
